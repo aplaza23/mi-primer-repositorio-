@@ -1,0 +1,23 @@
+.card {
+    margin: 0 auto;
+    float: none;
+}
+
+section#feature {
+    background-color: rgba(23,23,23,1);
+}
+
+section#background {
+	background-image: url(https://images.genius.com/78704b34b4b7c365ce53218734f009fc.1000x1000x1.jpg);
+	padding: 200px;
+	text-align: center;
+	color: white;
+}
+
+section#box {
+	background-color: rgba(24,24,24,1);
+
+
+.jumbotron {
+    margin-bottom: 0; color: black;
+}
